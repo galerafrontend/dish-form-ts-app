@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/dish-form-ts-app/static/js/main.22f16fe0.js",
+    "static/js/787.58b7f26f.chunk.js": "/dish-form-ts-app/static/js/787.58b7f26f.chunk.js",
+    "static/media/foodImage.png": "/dish-form-ts-app/static/media/foodImage.e786b5cc402dce1ccc98.png",
+    "index.html": "/dish-form-ts-app/index.html",
+    "main.22f16fe0.js.map": "/dish-form-ts-app/static/js/main.22f16fe0.js.map",
+    "787.58b7f26f.chunk.js.map": "/dish-form-ts-app/static/js/787.58b7f26f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.22f16fe0.js"
+  ]
+}
