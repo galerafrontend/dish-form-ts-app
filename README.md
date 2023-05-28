@@ -42,7 +42,7 @@ npm inastall
 
 - The `useStatus` and `getNotificationData` custom hooks are used to handle the status and display notifications based on the form submission result. You can modify the notification messages and styles in the `Notification` component.
 - The form makes use of custom `TextInput` and `SelectInput` components to render the input fields. You can customize these components or replace them with your own components as needed.
-- The form submission sends a POST request to an API endpoint using the `postDish` function from the `apiUtil.js` file. You can update this function to communicate with your own API or backend.
+- The form submission sends a POST request to an API endpoint using the `postDish` function from the `apiUtil.ts` file. You can update this function to communicate with your own API or backend.
 
 ## Technologies Used
 
