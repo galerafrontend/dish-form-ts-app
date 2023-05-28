@@ -1,7 +1,3 @@
-export interface FormData {
-  initialValues: Data;
-}
-
 export interface Data {
   name: string;
   preparation_time: string;
